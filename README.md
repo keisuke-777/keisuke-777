@@ -45,16 +45,3 @@ Hi! I'm keisuke-777!!
 <!-- https://github.com/Ileriayo/markdown-badge -->
 
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img alt="VueJS" src="https://img.shields.io/badge/-Vue.js-4FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=white"/> <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img alt="Java" src="https://img.shields.io/badge/-Java-007396.svg?logo=java&style=for-the-badge&logoColor=white"> <img alt="NuxtJS" src="https://img.shields.io/badge/-Nuxt.js-00C58E.svg?logo=nuxt.js&style=for-the-badge&logoColor=white"> <img alt="C#" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/> <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img alt="LaTeX" src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> <img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/> <img alt="Unity" src="https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white"/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keisuke-777&theme=dark" alt="keisuke-777" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keisuke-777&count_private=true&show_icons=true&theme=dracula" alt="keisuke-777" />
-</div>
-
-<!-- <p align="center">
-<img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=keisuke-777&theme=dark" alt="keisuke-777" /> <img width="45%" src="https://github-readme-stats.vercel.app/api?username=keisuke-777&count_private=true&show_icons=true&theme=dracula" alt="keisuke-777" />
-</p> -->
-
