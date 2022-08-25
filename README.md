@@ -36,7 +36,6 @@ Hi! I'm keisuke-777!!
 
 ## 動作中の制作物
 - [ユーザーが1人ログインすれば使える、麻雀の精算を行うwebアプリ](https://mahjong-record.herokuapp.com/)<br>
-- [ボードゲームっぽいスマホゲーム](https://play.google.com/store/apps/details?id=com.tsukubaJapanCompany.Angeber)
 
 <br>
 
