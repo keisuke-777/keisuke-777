@@ -21,7 +21,7 @@ Hi! I'm keisuke-777!!
 
 
 - 🏫 筑波大学に所属しています。
-- 🌱 フロントではvueやnuxt、バックでは強化学習やSQLに興味を持っています。
+- 🌱 主にフロントではvue、バックではpythonを使用しています。
 
 </div>
 
@@ -29,7 +29,7 @@ Hi! I'm keisuke-777!!
 
 <!-- <img align="right" width="50%" src="https://media1.tenor.com/images/afe5d5f3de26692f8409c12b6cb06d76/tenor.gif?itemid=11233523"> -->
 ## 実務経験
-- 株式会社つばさ アルバイト（2019年2月〜現在）
+- 株式会社つばさ アルバイト（2019年2月〜2022年9月）
 - ヤフー株式会社 サマーインターン（5日間）
 
 <br>
